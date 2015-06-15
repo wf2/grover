@@ -1,12 +1,12 @@
 {
-  "name": "grover",
+  "name": "wfgrover",
   "description": "PhantomJS wrapper for YUITest",
   "version": "0.1.17",
   "engines": {
     "node": ">=0.4.0"
   },
   "bin": {
-    "grover": "./bin/grover.js"
+    "wfgrover": "./bin/grover.js"
   },
   "main": "./lib/grover.js",
   "dependencies": {
@@ -39,16 +39,16 @@
   },
   "preferGlobal": "true",
   "bugs": {
-    "url": "http://github.com/yui/grover/issues"
+    "url": "http://github.com/wf2/grover/issues"
   },
   "licenses": [
     {
       "type": "BSD",
-      "url": "https://github.com/yui/grover/blob/master/LICENSE"
+      "url": "https://github.com/wf2/grover/blob/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/yui/grover.git"
+    "url": "http://github.com/wf2/grover.git"
   }
 }
